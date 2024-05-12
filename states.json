@@ -1,0 +1,305 @@
+{
+  "states": [
+    {
+      "name": "Alabama",
+      "abbreviation": "AL",
+      "population": 4903185,
+      "capital": "Montgomery"
+    },
+    {
+      "name": "Alaska",
+      "abbreviation": "AK",
+      "population": 731545,
+      "capital": "Juneau"
+    },
+
+    {
+      "name": "Arizona",
+      "abbreviation": "AZ",
+      "population": 7278717,
+      "capital": "Phoenix"
+    },
+    {
+      "name": "Arkansas",
+      "abbreviation": "AR",
+      "population": 3017804,
+      "capital": "Little Rock"
+    },
+    {
+      "name": "California",
+      "abbreviation": "CA",
+      "population": 39512223,
+      "capital": "Sacramento"
+    },
+    {
+      "name": "Colorado",
+      "abbreviation": "CO",
+      "population": 5758736,
+      "capital": "Denver"
+    },
+    {
+      "name": "Connecticut",
+      "abbreviation": "CT",
+      "population": 3565287,
+      "capital": "Hartford"
+    },
+    {
+      "name": "Delaware",
+      "abbreviation": "DE",
+      "population": 973764,
+      "capital": "Dover"
+    },
+    {
+      "name": "Florida",
+      "abbreviation": "FL",
+      "population": 21477737,
+      "capital": "Tallahassee"
+    },
+    {
+      "name": "Georgia",
+      "abbreviation": "GA",
+      "population": 10617423,
+      "capital": "Atlanta"
+    },
+    {
+      "name": "Hawaii",
+      "abbreviation": "HI",
+      "population": 1415872,
+      "capital": "Honolulu"
+    },
+    {
+      "name": "Idaho",
+      "abbreviation": "ID",
+      "population": 1787065,
+      "capital": "Boise"
+    },
+    {
+      "name": "Illinois",
+      "abbreviation": "IL",
+      "population": 12671821,
+      "capital": "Springfield"
+    },
+    {
+      "name": "Indiana",
+      "abbreviation": "IN",
+      "population": 6732219,
+      "capital": "Indianapolis"
+    },
+    {
+      "name": "Iowa",
+      "abbreviation": "IA",
+      "population": 3155070,
+      "capital": "Des Moines"
+    },
+    {
+      "name": "Kansas",
+      "abbreviation": "KS",
+      "population": 2913314,
+      "capital": "Topeka"
+    },
+    {
+      "name": "Kentucky",
+      "abbreviation": "KY",
+      "population": 4467673,
+      "capital": "Frankfort"
+    },
+    {
+      "name": "Louisiana",
+      "abbreviation": "LA",
+      "population": 4648794,
+      "capital": "Baton Rouge"
+    },
+    {
+      "name": "Maine",
+      "abbreviation": "ME",
+      "population": 1344212,
+      "capital": "Augusta"
+    },
+    {
+      "name": "Maryland",
+      "abbreviation": "MD",
+      "population": 6045680,
+      "capital": "Annapolis"
+    },
+    {
+      "name": "Massachusetts",
+      "abbreviation": "MA",
+      "population": 6892503,
+      "capital": "Boston"
+    },
+    {
+      "name": "Michigan",
+      "abbreviation": "MI",
+      "population": 9986857,
+      "capital": "Lansing"
+    },
+    {
+      "name": "Minnesota",
+      "abbreviation": "MN",
+      "population": 5639632,
+      "capital": "St. Paul"
+    },
+    {
+      "name": "Mississippi",
+      "abbreviation": "MS",
+      "population": 2976149,
+      "capital": "Jackson"
+    },
+    {
+      "name": "Missouri",
+      "abbreviation": "MO",
+      "population": 6137428,
+      "capital": "Jefferson City"
+    },
+    {
+      "name": "Montana",
+      "abbreviation": "MT",
+      "population": 1068778,
+      "capital": "Helena"
+    },
+    {
+      "name": "Nebraska",
+      "abbreviation": "NE",
+      "population": 1934408,
+      "capital": "Lincoln"
+    },
+    {
+      "name": "Nevada",
+      "abbreviation": "NV",
+      "population": 3080156,
+      "capital": "Carson City"
+    },
+    {
+      "name": "New Hampshire",
+      "abbreviation": "NH",
+      "population": 1359711,
+      "capital": "Concord"
+    },
+    {
+      "name": "New Jersey",
+      "abbreviation": "NJ",
+      "population": 8882190,
+      "capital": "Trenton"
+    },
+    {
+      "name": "New Mexico",
+      "abbreviation": "NM",
+      "population": 2096829,
+      "capital": "Santa Fe"
+    },
+    {
+      "name": "New York",
+      "abbreviation": "NY",
+      "population": 19453561,
+      "capital": "Albany"
+    },
+    {
+      "name": "North Carolina",
+      "abbreviation": "NC",
+      "population": 10488084,
+      "capital": "Raleigh"
+    },
+    {
+      "name": "North Dakota",
+      "abbreviation": "ND",
+      "population": 762062,
+      "capital": "Bismarck"
+    },
+    {
+      "name": "Ohio",
+      "abbreviation": "OH",
+      "population": 11689100,
+      "capital": "Columbus"
+    },
+    {
+      "name": "Oklahoma",
+      "abbreviation": "OK",
+      "population": 3956971,
+      "capital": "Oklahoma City"
+    },
+    {
+      "name": "Oregon",
+      "abbreviation": "OR",
+      "population": 4217737,
+      "capital": "Salem"
+    },
+    {
+      "name": "Pennsylvania",
+      "abbreviation": "PA",
+      "population": 12801989,
+      "capital": "Harrisburg"
+    },
+    {
+      "name": "Rhode Island",
+      "abbreviation": "RI",
+      "population": 1059361,
+      "capital": "Providence"
+    },
+    {
+      "name": "South Carolina",
+      "abbreviation": "SC",
+      "population": 5148714,
+      "capital": "Columbia"
+    },
+    {
+      "name": "South Dakota",
+      "abbreviation": "SD",
+      "population": 884659,
+      "capital": "Pierre"
+    },
+    {
+      "name": "Tennessee",
+      "abbreviation": "TN",
+      "population": 6829174,
+      "capital": "Nashville"
+    },
+    {
+      "name": "Texas",
+      "abbreviation": "TX",
+      "population": 28995881,
+      "capital": "Austin"
+    },
+    {
+      "name": "Utah",
+      "abbreviation": "UT",
+      "population": 3205958,
+      "capital": "Salt Lake City"
+    },
+    {
+      "name": "Vermont",
+      "abbreviation": "VT",
+      "population": 623989,
+      "capital": "Montpelier"
+    },
+    {
+      "name": "Virginia",
+      "abbreviation": "VA",
+      "population": 8535519,
+      "capital": "Richmond"
+    },
+    {
+      "name": "Washington",
+      "abbreviation": "WA",
+      "population": 7614893,
+      "capital": "Olympia"
+    },
+    {
+      "name": "West Virginia",
+      "abbreviation": "WV",
+      "population": 1792147,
+      "capital": "Charleston"
+    },
+    {
+      "name": "Wisconsin",
+      "abbreviation": "WI",
+      "population": 5822434,
+      "capital": "Madison"
+    },
+    {
+      "name": "Wyoming",
+      "abbreviation": "WY",
+      "population": 578759,
+      "capital": "Cheyenne"
+    }
+  ]
+}
